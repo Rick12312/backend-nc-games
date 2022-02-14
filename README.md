@@ -10,7 +10,7 @@ This API was built for the purpose of accessing data programmatically. This API 
 
 Clone the repo using the following command
 
-`git clone https://git.heroku.com/backend-northcoders-games.git`
+`git clone https://github.com/Rick12312/backend-nc-games.git`
 
 ## Step 2 - Setup
 
